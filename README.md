@@ -23,10 +23,9 @@ While past prototypes of LebanVolt (https://www.youtube.com/watch?v=wxHNFwfxpGI&
 
 ## Bill of materials + sourcing 
 - Glycerol (Glycerin in commercial context): [https://www.amazon.ca/Raslok-Vegetable-Glycerine-Versatile-Moisturizing/dp/B0DJD97BZK/ref=sr_1_3_sspa?crid=34IAEC24EYRXL&dib=eyJ2IjoiMSJ9.F8H_6yPR4gpeqVbkEzDjDHvRQ19JFj7YRsoCta89cbShzMQiuOio9mPTrzUjWT0HAJV8-TdcpFmt6KjlKDTmlT1ilOy69y1MWWXRDdxfDxWT5Y1fuXaBVsIksyz7-MhjiYHIRckUQHuPIjk9ZZHIImnexh4Zpvvyau4egXodR30CC3T__saidKygjkYHVLCKwwA4IR49YOAG0calz1qrjSyQ3KuvUD-7MBw2qTKe1V0AYDzuV13ankArsuA84K884xWrro2XVnzMVewBRDKac8y_IxzhqKO-pSrft5CVQ-k.4vqHIOAhagngHxQsobsRvTPHB5VYzgEZjNkgVN_dFEw&dib_tag=se&keywords=glycerol%2B100%25&qid=1779028578&sprefix=glycerol%2B100%25%2Caps%2C127&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1]
-- Glycine: [https://www.amazon.ca/Organika-Glycine-Powder-Proteinogenic-Synthesis/dp/B0CS6QSF4Y?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3DWYIK6Y9EEQB&th=1](url)
-- Sodium alginate: [https://www.amazon.ca/dp/B0DZ5ZJFB9/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0DZ5ZJFB9&pd_rd_w=fAQIo&content-id=amzn1.sym.99226bee-397f-4807-9350-d703b292dd4f&pf_rd_p=99226bee-397f-4807-9350-d703b292dd4f&pf_rd_r=W6HY1ZHN7P64W43NPQ0Z&pd_rd_wg=1m36T&pd_rd_r=7d494c76-39b7-4a68-8acb-a2671454a2ac&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy](url)
+- Glycine: https://www.amazon.ca/Organika-Glycine-Powder-Proteinogenic-Synthesis/dp/B0CS6QSF4Y?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3DWYIK6Y9EEQB&th=1
+- Sodium alginate: https://www.amazon.ca/dp/B0DZ5ZJFB9/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0DZ5ZJFB9&pd_rd_w=fAQIo&content-id=amzn1.sym.99226bee-397f-4807-9350-d703b292dd4f&pf_rd_p=99226bee-397f-4807-9350-d703b292dd4f&pf_rd_r=W6HY1ZHN7P64W43NPQ0Z&pd_rd_wg=1m36T&pd_rd_r=7d494c76-39b7-4a68-8acb-a2671454a2ac&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy 
 
-- https://www.amazon.ca/dp/B0DZ5ZJFB9/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0DZ5ZJFB9&pd_rd_w=fAQIo&content-id=amzn1.sym.99226bee-397f-4807-9350-d703b292dd4f&pf_rd_p=99226bee-397f-4807-9350-d703b292dd4f&pf_rd_r=W6HY1ZHN7P64W43NPQ0Z&pd_rd_wg=1m36T&pd_rd_r=7d494c76-39b7-4a68-8acb-a2671454a2ac&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy
 
 
 ## Visual representation of fabrication 
