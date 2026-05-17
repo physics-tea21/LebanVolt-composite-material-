@@ -9,14 +9,11 @@ While past prototypes of LebanVolt (https://www.youtube.com/watch?v=wxHNFwfxpGI&
 ## Methodology 
 
 
-1) 1.5 wt % chitosan solution was prepared by mixing chitosan powder with a 1% v/v acetic acid aqueous solution. 
+1) Gly-Alg solution (1:1) will be prepared by dissolving 0.4 g sodium alginate and 0.4 g Gly in 40 ml of deionized water. 
 
+2) The following quantities: 0.2, 0.4, 0.8 and 1.2 g glycerol will be added into the above Gly-Alg solution, respectively. 
 
-2) The following glycine to chitosan ratios of 0.4:1, 0.8:1, 1.2:1, and 2.7:1, will be prepared by dissolving diﬀerent amounts of glycine powder in the prepared 1.5 wt % chitosan solution by stirring. 
-
-
-3) The well-mixed glycine/chitosan solution will be drop casted inside a polystyrene Petri dish, followed by drying at room temperature for 24−48 h. 
-
+3) 40 ml of the mixed solutions was casted into a 115-mm-diameter polystyrene petri dish and dried at room temperature for 1 week.
 
 4) Solid core insulated copper wires will be soldered to 1 cm x 1cm pieces of copper tape. Aluminum tape electrodes will be stuck against either glycine alginate glycine composite. The copper tape copper wire electrode extension will be stuck onto both aluminum tape electrodes. 
 
