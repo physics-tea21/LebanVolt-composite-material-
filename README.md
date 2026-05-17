@@ -1,3 +1,6 @@
+<img width="816" height="1056" alt="Untitled presentation (2)" src="https://github.com/user-attachments/assets/c838b239-2a3c-435c-afbb-79d89bc02e3d" />
+<img width="816" height="1056" alt="Untitled presentation (2)" src="https://github.com/user-attachments/assets/b095e32e-e60f-4293-83a8-88b05bd3f168" />
+<img width="816" height="1056" alt="Untitled presentation (2)" src="https://github.com/user-attachments/assets/095c7515-04fe-4900-9730-68f378b49f5c" />
 ## Description 
 With the grande objective of designing a wrist mounted hybrid PENG TENG, I built off my work in piezoelectric polymers, conducting background research in bio-compatible piezoelectric materials. I have concluded that a glycin, glycerol alginate composite is the best way forward- allowing for ease of manufacturability without comprimising voltage output per unit of strain (piezoelectric coeffecient).
 
@@ -41,3 +44,8 @@ After the composite sheet has been cut it it's desired general shape, the auxeti
 <img width="1024" height="559" alt="THumb gaurd" src="https://github.com/user-attachments/assets/52d77623-affe-4433-ab7e-ee065d8f6399" />
 The end product should resemble something like the image above. This image was made using google Gemini nano banana.  
 
+## Zine file 
+<img width="816" height="1056" alt="Untitled presentation (2)" src="https://github.com/user-attachments/assets/936aed31-9c98-48d1-aa0a-11760966b1ac" />
+You'll be able to nottice a PCB on the wearable. For more information on this PCB, and it's schematic please visit a video I created:https://www.youtube.com/watch?v=B6PhtprYwxo&list=PL4c0XTaN5QL7R7dcJk9QdU_dNLjhbm2Hm&index=2
+
+This project isn't about the PCB I designed, but the development of a highly effecient piezoelectirc material for the application. Feel free to design your own similar PCB.  
